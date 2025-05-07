@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Skills
+- **Languages**: Verilog, VHDL, Python, C,VB.net
+- **HW Skills**: Power, Analog, FPGA,PCB
