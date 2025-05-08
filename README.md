@@ -13,6 +13,7 @@
 ![CPU and peripheral circuits](https://img.shields.io/badge/-CPU%20and%20peripheral%20circuits-68BC71.svg)&nbsp;
 ![Artwork design](https://img.shields.io/badge/-Artwork%20design-FF55DD.svg)&nbsp;
 ![Product Safety](https://img.shields.io/badge/-Product%20Safety-B6A272.svg)&nbsp;
+![EMC Design](https://img.shields.io/badge/-EMC%20Design-000000.svg)&nbsp;
 ![Fine pitch soldering](https://img.shields.io/badge/-Fine%20pitch%20soldering-8E75B2.svg)&nbsp;
 ## Connect with me
 [zenn](https://zenn.dev/y_suyama)
